@@ -1,0 +1,9 @@
+[
+Port to listen: 80
+Root folder:rootFolder
+Default document:index.htm
+Is used IP address: 172.24.210.6
+keep-alive: 5
+Max number of connect: 10
+]
+

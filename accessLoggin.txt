@@ -1,0 +1,7 @@
+Client IP address:  Y
+Server IP address:  Y
+Date:               Y
+HTTPStatus:         Y
+BytesSent:          Y
+URIStem:            Y
+Method:             Y
